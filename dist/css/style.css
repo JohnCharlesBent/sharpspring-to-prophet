@@ -1,0 +1,73 @@
+* {
+  box-sizing: border-box; }
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif; }
+
+ul {
+  margin: 0;
+  padding: 0; }
+
+div.content_wrapper {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  justify-content: center; }
+
+form {
+  padding-top: 2rem; }
+  form fieldset {
+    border: none; }
+  form label span.req {
+    color: red; }
+  form input[type="text"], form input[type="email"] {
+    display: block;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    height: 35px;
+    width: 100%;
+    padding: .15rem;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem; }
+  form input[type="submit"] {
+    border: solid thin transparent;
+    padding: 1rem;
+    color: #fff;
+    background: red;
+    font-size: 1.2rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all .63s ease-in-out;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1px; }
+    form input[type="submit"]:hover {
+      border: solid thin red;
+      background: #fff;
+      color: red; }
+
+form#ss_contact_lookup {
+  margin-top: auto;
+  margin-bottom: auto; }
+
+body._sharpspring-prophet_compare_ .content_wrapper {
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  align-items: flex-start; }
+
+.account_data {
+  width: calc(50% - 2rem);
+  margin: 1rem;
+  padding: 1rem;
+  border: solid thin red; }
+  .account_data ul li {
+    list-style: none;
+    padding: .5rem;
+    border-bottom: solid thin red; }
+    .account_data ul li:nth-child(even) {
+      background: #eee; }
+
+footer {
+  padding: 2rem;
+  border-top: solid thin red; }

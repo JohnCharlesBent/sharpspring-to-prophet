@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="agnostic_functions.php" server="prophet-sharpspring.tizianiwhitmyre.com" local="132072707450000000" remote="131841360000000000" Dst="2" />
+<file name="check_prophet_contact_exists.php" server="prophet-sharpspring.tizianiwhitmyre.com" local="132072707450000000" remote="131840496000000000" Dst="2" />
+<file name="clear_create_queue.php" server="prophet-sharpspring.tizianiwhitmyre.com" local="132072707450000000" remote="131847408000000000" Dst="2" />
+<file name="config.php" server="prophet-sharpspring.tizianiwhitmyre.com" local="132072707450000000" remote="131835312000000000" Dst="2" />
+<file name="get_new_sharpspring_contacts_prophet.php" server="prophet-sharpspring.tizianiwhitmyre.com" local="132072707450000000" remote="131847408000000000" Dst="2" />
+<file name="get_updated_prophet_contacts_add_queue.php" server="prophet-sharpspring.tizianiwhitmyre.com" local="132072707450000000" remote="131840496000000000" Dst="2" />
+<file name="get_updated_sharpspring_contacts_add_queue.php" server="prophet-sharpspring.tizianiwhitmyre.com" local="132072707460000000" remote="131841360000000000" Dst="2" />
+<file name="index.php" server="prophet-sharpspring.tizianiwhitmyre.com" local="132072707460000000" remote="131830128000000000" Dst="2" />
+<file name="post_to_zap_new_sharpspring_contacts_prophet.php" server="prophet-sharpspring.tizianiwhitmyre.com" local="132072707460000000" remote="131852592000000000" Dst="2" />
+<file name="prophet-get-custom-fields.php" server="prophet-sharpspring.tizianiwhitmyre.com" local="132072707460000000" remote="131843088000000000" Dst="2" />
+<file name="prophet_functions.php" server="prophet-sharpspring.tizianiwhitmyre.com" local="132072707460000000" remote="131843088000000000" Dst="2" />
+<file name="send_email_to_support.php" server="prophet-sharpspring.tizianiwhitmyre.com" local="132072707460000000" remote="131840496000000000" Dst="2" />
+<file name="sharpspring_functions.php" server="prophet-sharpspring.tizianiwhitmyre.com" local="132072707460000000" remote="131847408000000000" Dst="2" />
+<file name="sync_updated_prophet_contacts_sharpspring.php" server="prophet-sharpspring.tizianiwhitmyre.com" local="132072707460000000" remote="131843088000000000" Dst="2" />
+<file name="sync_updated_sharpspring_contacts_prophet.php" server="prophet-sharpspring.tizianiwhitmyre.com" local="132072707470000000" remote="131847408000000000" Dst="2" />
+<file name="update_custom_fields_and_company_sharpspring.php" server="prophet-sharpspring.tizianiwhitmyre.com" local="132072707470000000" remote="131840496000000000" Dst="2" />
+<file name="update_prophet_guid_data_to_synced_sharpspring_contact.php" server="prophet-sharpspring.tizianiwhitmyre.com" local="132072707470000000" remote="131843088000000000" Dst="2" />
+</dwsync>

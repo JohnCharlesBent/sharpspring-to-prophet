@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+header {
+  height: 5vh;
+  width: 100%;
+}
+
+section {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  height: 85vh;
+}
+
+footer {
+  height: 10vh;
+}
+
+form#diff_check {
+  padding: 2rem;
+  border: solid thin #9f1917;
+  border-radius: 10px;
+  background: #fff;
+}
+
+form#diff_check input[type="text"] {
+  min-width: 500px;
+  height: 30px;
+  padding: .5rem;
+  border: solid thin #9f1917;
+}
+
+form#diff_check input[type="submit"] {
+  height: 30px;
+  min-width: 100px;
+  border: solid thin transparent;
+  background-color: #9f1917;
+  color: #fff;
+  cursor: pointer;
+  transition: all .3s ease-in-out;
+  font-size: .9rem;
+  margin-left: -5px;
+  margin-top: 1px;
+}
+
+form#diff_check input[type="submit"]:hover {
+  background-color: #d27957;
+  border: solid thin #9f1917;
+}
